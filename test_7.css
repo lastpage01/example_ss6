@@ -1,0 +1,24 @@
+
+#continer{  
+    width: 1250px;
+    margin: 0 auto;
+    padding: 10px 10px;
+    background-color: white;
+}
+.p1{
+    font-size: 13px;
+}
+.p2{
+    padding-left: 50px;
+}  
+a{
+    color: blue;
+} 
+.a{
+    color: black;
+    text-decoration: none;
+}
+.p3{
+    color: blue;
+    text-decoration-line: underline
+}
